@@ -55,6 +55,7 @@ img {
   padding: 32px;
   padding-top: 24px;
   position: relative;
+  box-shadow: 40px 60px 50px -47px hsla(217 19 35 / 25%);
 
   --avi-border-color: hsla(0 0 0 / 0);
   --text-gap: 1rem;
